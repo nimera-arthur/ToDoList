@@ -1,4 +1,4 @@
-# ToDoList Python Developer
+# ToDoList
 - Python
 - Django
 - HTML/CSS
